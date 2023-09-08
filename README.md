@@ -1,5 +1,14 @@
-### Hi there 👋
+# Hola Halo!!! 👋
 
+Perkenalkan nama saya **Muhammad Ilman Aqilaa**.  
+Saya adalah seorang mahasiswa di [Universitas Logistik dan Bisnis Internasional](https://www.ulbi.ac.id/).
+
+<p align="left">
+<a href="https://github.com/ilmanaqilaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilmanaqilaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilmanaqilaa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
 **ilmanaqilaa/ilmanaqilaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
