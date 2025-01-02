@@ -1,4 +1,4 @@
-# Hola Halo!!! 👋
+# Uyyuyy 👋
 
 Perkenalkan nama saya **Muhammad Ilman Aqilaa**.  
 Saya adalah seorang mahasiswa di [Universitas Logistik dan Bisnis Internasional](https://www.ulbi.ac.id/).
