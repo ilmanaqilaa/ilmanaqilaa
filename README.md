@@ -1,7 +1,6 @@
 # Uyyuyy 👋
 
-Perkenalkan nama saya **Muhammad Ilman Aqilaa**.  
-Saya adalah seorang mahasiswa di [Universitas Logistik dan Bisnis Internasional](https://www.ulbi.ac.id/).
+My name is **Muhammad Ilman Aqilaa**.
 
 <p align="left">
 <a href="https://github.com/ilmanaqilaa">
